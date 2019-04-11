@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Room</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_save">SAVE</string>
+    <string name="action_update">UPDATE</string>
+    <string name="action_text">Room</string>
+    <string name="hint_feed_title">Enter job title</string>
+    <string name="hint_feed_details">Enter job details</string>
+    <string name="btn_change">SAVE</string>
+</resources>
